@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Books/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/React-Books/static/js/main.d026db5e.chunk.js",
+    "main.js.map": "/React-Books/static/js/main.d026db5e.chunk.js.map",
+    "runtime-main.js": "/React-Books/static/js/runtime-main.515fe020.js",
+    "runtime-main.js.map": "/React-Books/static/js/runtime-main.515fe020.js.map",
+    "static/js/2.b1850c17.chunk.js": "/React-Books/static/js/2.b1850c17.chunk.js",
+    "static/js/2.b1850c17.chunk.js.map": "/React-Books/static/js/2.b1850c17.chunk.js.map",
+    "static/js/3.9499cad7.chunk.js": "/React-Books/static/js/3.9499cad7.chunk.js",
+    "static/js/3.9499cad7.chunk.js.map": "/React-Books/static/js/3.9499cad7.chunk.js.map",
+    "index.html": "/React-Books/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/React-Books/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.b1850c17.chunk.js.LICENSE.txt": "/React-Books/static/js/2.b1850c17.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-Books/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.515fe020.js",
+    "static/js/2.b1850c17.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d026db5e.chunk.js"
+  ]
+}
